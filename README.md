@@ -1,5 +1,6 @@
 # Pol Melo Subirat
-![Pulpo Pol](/IMG/OCTOPOL.png)
+
+![Pulpo Pol](IMG/OCTOPOL.png)
 
 
 
