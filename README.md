@@ -1,7 +1,6 @@
 # Pol Melo Subirat
 ✉️ Email: pol.melo14@gmail.com  
 
-📱 Móvil: +34 665 82 10 48
 
 ###  Estudios 📖
 * BACHILLERATO DE CIENCIAS Y TECNOLOGIA  
