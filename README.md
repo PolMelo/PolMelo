@@ -1,6 +1,6 @@
 # Pol Melo Subirat
 ✉️ Email: pol.melo14@gmail.com  
-[Linkedin](https://www.linkedin.com/in/pol-melo-subirat/)
+[Linkedin](https://www.linkedin.com/in/PolMelo/)
 
 
 ###  Estudios 📖
