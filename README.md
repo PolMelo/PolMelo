@@ -29,8 +29,6 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Pol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=polmelo&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=polmelo&layout=compact&theme=radical)
 
 ---
@@ -44,22 +42,44 @@
 
 ---
 
+# 🎓 Estudios
+
+## **Formación Académica**
+
+| 📅 Año | 🎯 Titulación | 📍 Institución |
+|--------|---------------|----------------|
+| 2023-2024 | **IFCD65 - Front End Web Developer TF** | *Especialización en desarrollo web moderno* |
+| 2023 | **IFCT0089 - Seguridad Digital Básica** | *Ciberseguridad y protección de datos* |
+| 2020-2022 | **Grado Superior - Administración de Sistemas Informáticos en Red** | *Formación en infraestructuras IT y redes* |
+| 2018-2020 | **Bachillerato de Ciencias y Tecnología** | *Base científica y tecnológica* |
+
+---
+
+# 🌍 Idiomas
+
+<div align="center">
+
+### **Competencias Lingüísticas**
+
+| Idioma | Nivel | Estado |
+|---------|--------|---------|
+| **Català** | 🏠 **Nativo** | ⭐⭐⭐⭐⭐ |
+| **Español** | 🏠 **Nativo** | ⭐⭐⭐⭐⭐ |
+| **English** | **Avanzado ** | ⭐⭐⭐⭐☆ |
+
+
+**🇬🇧 Inglés - Nivel Avanzado**
+- ✅ Comprensión auditiva y lectora: **Avanzada**
+- ✅ Expresión oral y escrita: **Intermedio-Alto**
+- 🌐 Capacidad para trabajar en entornos internacionales
+- 📚 Comunicación técnica en inglés fluida
+
+---
+
+*💡 Formación continua y en constante evolución profesional*
+
+
 ⭐️ *From [polmelo](https://github.com/polmelo)*
 
-###  Estudios 📖
-* BACHILLERATO DE CIENCIAS Y TECNOLOGIA  
-* GRADO SUPERIOR DE ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED
-* IFCT0089 - SEGURIDAD DIGITAL BASICA 
-* IFCD65 - FRONT END WEB DEVELOPER TF
-* 
-  
-*******
-
-### Idiomas
-* Catalán
-* Español 
-* Ingles 
 
 
-
-## Sobre mi
