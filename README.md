@@ -46,8 +46,9 @@
 
 ## **Formación Académica**
 
-| 📅 Año | 🎯 Titulación | 📍 Institución |
+| 📅 Año | 🎯 Titulación | 📚Detalles |
 |--------|---------------|----------------|
+| 2025 | ** FullStack Júnior Web Developer amb JAVA** | *Bootcamp de especialización en HTML, CSS, JS, TS, MySQL* |
 | 2025 | **IFCD65 - Front End Web Developer TF** | *Especialización en desarrollo web moderno* |
 | 2025 | **IFCT0089 - Seguridad Digital Básica** | *Ciberseguridad y protección de datos* |
 | 2016-2018 | **Grado Superior - Administración de Sistemas Informáticos en Red** | *Formación en infraestructuras IT y redes* |
