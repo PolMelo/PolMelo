@@ -58,7 +58,6 @@
 
 # 🌍 Idiomas
 
-<div align="center">
 
 ### **Competencias Lingüísticas**
 
