@@ -48,10 +48,10 @@
 
 | 📅 Año | 🎯 Titulación | 📍 Institución |
 |--------|---------------|----------------|
-| 2023-2024 | **IFCD65 - Front End Web Developer TF** | *Especialización en desarrollo web moderno* |
-| 2023 | **IFCT0089 - Seguridad Digital Básica** | *Ciberseguridad y protección de datos* |
-| 2020-2022 | **Grado Superior - Administración de Sistemas Informáticos en Red** | *Formación en infraestructuras IT y redes* |
-| 2018-2020 | **Bachillerato de Ciencias y Tecnología** | *Base científica y tecnológica* |
+| 2025 | **IFCD65 - Front End Web Developer TF** | *Especialización en desarrollo web moderno* |
+| 2025 | **IFCT0089 - Seguridad Digital Básica** | *Ciberseguridad y protección de datos* |
+| 2016-2018 | **Grado Superior - Administración de Sistemas Informáticos en Red** | *Formación en infraestructuras IT y redes* |
+| 2013-2016 | **Bachillerato de Ciencias y Tecnología** | *Base científica y tecnológica* |
 
 ---
 
