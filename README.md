@@ -2,8 +2,12 @@
 
 ### 💼 Desarrollador Full Stack
 
-[![Email](https://img.shields.io/badge/Email-pol.melo14@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pol.melo14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PolMelo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PolMelo/)
+[![Email](https://img.shields.io/badge/Email-pol.melo14@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pol.melo14@gmail.com)  
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PolMelo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PolMelo/)  
+
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Pol_Melo-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://polmelo.github.io/)
 
 ---
